@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.work-sans-fonts {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  /* SHARED DESIGN STYLE */
+  .primary-color{
+    background-color: rgba(255, 144, 14, 0.1);
+  }
+/* COLOR */
+  .dark-one{
+    color: rgba(19, 19, 19, 1);
+  }
+
+  /* DISPLAY  */
+  .display-flex{
+    display: flex;
+  }
+
+  .h3-all{
+    font-weight: 800px;
+    font-size: 45px;
+  }
