@@ -298,19 +298,21 @@ main {
 
   .fact-card {
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
   }
-  .sponsers{
+
+  /* .sponsers{
     margin: 0px 10px;
-  }
+  } */
+  
   .sponsers-logo {
     grid-template-columns: repeat(2, 1fr);
     margin-top: 20px;
-    gap: 30px;
+    gap: 10px;
   }
 
   .foot{
-    margin: 30px;
+    margin: 10px;
   }
 }
 
@@ -329,7 +331,7 @@ main {
 
   .nav-item {
     margin-top: 20px;
-    gap: 20px;
+    gap: 10px;
   }
 
   .banner-picture img {
@@ -346,13 +348,13 @@ main {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .quick-description {
+  /* .quick-description {
     padding: 0px 20px;
-  }
+  } */
 
   .feature {
     flex-direction: column;
-    padding: 10px;
+    /* padding: 10px; */
   }
 
   .content-pcture {
@@ -382,15 +384,15 @@ main {
 
   .fact-card {
     flex-direction: column;
-    gap: 20px;
+    /* gap: 20px; */
   }
 
   .sponsers{
-    margin: 0px 15px;
+    /* margin: 0px 15px; */
   }
   .sponsers-logo {
     grid-template-columns: repeat(3, 1fr);
-    gap: 40px;
+    /* gap: 40px; */
     margin-top: 30px;
   }
 
